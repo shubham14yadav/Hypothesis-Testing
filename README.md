@@ -1,6 +1,6 @@
 Summary:
 
-In this project, I have performed various analyses on a dataset that included information on age, sex, BMI, number of children, smoking status, region, and charges. The objective was to investigate outlier detection, correlation, distribution of different attributes, and hypothesis testing.
+In this project, I have performed various statistical analyses on a dataset that included information on age, sex, BMI, number of children, smoking status, region, and charges. The objective was to investigate outlier detection, correlation, distribution of different attributes, and hypothesis testing.
 
 Outlier Detection:
 I started by examining the dataset for any outliers, which are extreme values that may significantly impact the analysis. Outliers can distort statistical measures and affect the validity of conclusions. Various methods, such as box plots or statistical tests, can be used to identify outliers. However, the specific outlier detection technique used in this project is not mentioned.
