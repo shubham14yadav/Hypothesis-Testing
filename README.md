@@ -1,4 +1,4 @@
-#Summary:
+Summary:
 
 In this project, I have performed various analyses on a dataset that included information on age, sex, BMI, number of children, smoking status, region, and charges. The objective was to investigate outlier detection, correlation, distribution of different attributes, and hypothesis testing.
 
